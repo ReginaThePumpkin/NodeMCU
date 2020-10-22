@@ -4,6 +4,8 @@ Contador de 7 bits implementado con un Node MCU.
 # Circuito
 ![circuito](https://github.com/ReginaThePumpkin/NodeMCU/blob/master/7-bit_counter/images/circuito.png)
 
+![node](https://github.com/ReginaThePumpkin/NodeMCU/blob/master/7-bit_counter/images/node.jpeg)
+
 # Código de arduino (sketch.ino)
 
 Este código implementa el contador de 7 bits en un Node MCU
